@@ -8,17 +8,11 @@ JSP 인형 판매 웹사이트
 
 - 개인 프로젝트
 - 기능 : 게시판 (수정, 등록, 삭제, 작성) 회원가입, 구매, 장바구니 기능
-
-언어 : Java(JDK17), JSP, Html, Css
-
-서버 : Tomcat 9.0
-
-데이터베이스 : Oracle, Maria DB
-
-프레임워크 : BootStrap
-
-IDE : Eclipse
-
-도구 : github, notion
+- 언어 : Java(JDK17), JSP, Html, Css
+- 서버 : Tomcat 9.0
+- 데이터베이스 : Oracle, Maria DB
+- 프레임워크 : BootStrap
+- IDE : Eclipse
+- 도구 : github, notion
 
 
